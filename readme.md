@@ -39,7 +39,7 @@ If you like it, you can support it with a donation!
   - **Colored display of the current flight mode**  
   Shows the current flight mode, optionally with a preceding flight mode number. For each flight mode, both the background and text color can be selected. Up to 10 flight modes are supported.
   - **Display customization**  
-  Title line ("Flight Mode") can be toggled on/off, with optional selectable text and background color for the title line.
+  Title bar ("Flight Mode") can be toggled on/off, with optional selectable text and background color for the title bar.
  - **Localization**:  
   German (de), English (en), French (fr), Spanish (es), Italian (it), and Czech (cs)
   
