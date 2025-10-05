@@ -37,7 +37,7 @@ Wenn es Ihnen gefällt, können Sie es mit einer Spende unterstützen!
 # Funktionalität
 
   - **Farbige Anzeige der aktuelle Flugphase**  
-  Anzeige der aktuellen Flugphase, wenn gewünscht mit vorangestellter Flugphasennummer. Dabei kann für jede Flugphase sowohl die Hintergrundfarbe als auch die Textfarbe gewählt werden. Es werden bis zu 10 Flugphasen unterstützt.
+  Anzeige der aktuellen Flugphase in gewünschter Schriftgröße. Wenn gewünscht auch mit vorangestellter Flugphasennummer. Dabei kann für jede Flugphase sowohl die Hintergrundfarbe als auch die Textfarbe gewählt werden. Es werden bis zu 10 Flugphasen unterstützt.
   - **Anzeige Individualisierung**  
   Titelzeile ("Flugphase") ein/ausschalten, optional wählbare Text- und Hintergrund-Farbe für die Titelzeile.
  - **Lokalisierung**:  
