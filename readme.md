@@ -6,7 +6,7 @@
 ***
 
 <h1 name="top"> CFLMODE | Colored Flight Mode </h1>
-FrSky-Ethos widget for color display of the current flight mode.
+FrSky Ethos widget for color display of the current flight mode.
 
 Version 1.0.0 - https://github.com/andreaskuhl/cflmode
 
